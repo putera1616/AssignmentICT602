@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:autoLink="web"
-        android:text="www.test.com"
+        android:text="https://github.com/putera1616/AssignmentICT602/"
         android:textColorLink="@android:color/holo_blue_dark"
         android:textSize="18sp"
         android:padding="16dp"/>
